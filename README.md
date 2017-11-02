@@ -1,6 +1,6 @@
 # path-creator
 
-Create a valid route one could follow to collect all specified items within a map:
+Create a valid route to follow for collecting all specified items within a map:
 
 {
 "rooms": [
@@ -27,3 +27,4 @@ Example of input set:
   "startId": 2,
   "objects": ["Knife", "Potted Plant"]
 }
+
